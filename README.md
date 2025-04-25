@@ -5,4 +5,6 @@
 - Create README.md and add initial project overview
 - Intro.md that will contain short bio for DevOps intern team
 - and changelog.md for documenting changes
+## Acceptance criteria
+- We have to get reviews and also create branches and resolve conflicts trying to merge to main
 
